@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan KC Khatri</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🔭 I’m currently working on [Thrifty Tech](https://github.com/Rohankc073/E-Commerce-ThriftyTech.git)
+- 🔭 I’m currently studying in Softwarica College of IT and E-Commerce/Coventry University
 
 - 🌱 I’m currently learning **Springboot,React**
 
