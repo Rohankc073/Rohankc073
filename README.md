@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan KC Khatri</h1>
-- 🔭 I’m currently studying in **Softwarica College - Conventry University**
+- 🔭 I’m currently studying in Softwarica College - Conventry University
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohankc073](https://github.com/Rohankc073)
 
